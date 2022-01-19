@@ -7,6 +7,10 @@
 node_modules/
 dist/
 
+# Rust compiled files
+target/
+Cargo.lock
+
 # Compiled Java class files
 *.class
 
