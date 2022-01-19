@@ -1,29 +1,9 @@
-# README #
+# core_utils_rust #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This repo is used for learning Rust by recreating the Linux Core utils in Rust
 
-### What is this repository for? ###
+### Utils added so far ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+original name (new name)
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+* grep (rgrep)
